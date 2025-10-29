@@ -1,16 +1,49 @@
-## Hi there 👋
+# NikkaGames
 
-<!--
-**NikkaGames/NikkaGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Reverse Engineer | Android Developer | …uhh?..
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Summary
+Computer engineering student specializing in **reverse engineering**, **Android system development**, and **low-level native programming**.  
+Currently exploring **UEFI firmware architecture** and **boot chain adaptation** for ARM64-based platforms.  
+Passionate about deep system internals, binary interfacing, and hardware–software integration.
+
+---
+
+#### Core Competencies  
+- **Reverse Engineering:** Disassembly, ELF relocation, runtime patching  
+- **Native Development:** C / C++ / Kotlin / Java / ARM64 Assembly    
+- **Learning Focus:** EDK2, ACPI, Snapdragon SoCs
+
+---
+
+#### Technical Metrics
+
+| | |
+|:-:|:-:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikkaGames&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikkaGames&layout=compact&theme=tokyonight&langs_count=8) |
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NikkaGames&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+#### Current Focus
+- UEFI learning and adaptation for Snapdragon devices  
+- Manual ELF loading and relocation on Android  
+- Native–Java bridging via JNI and Zygisk  
+- Optimizing system startup and module injection pipelines
+
+---
+
+#### 🛰️ Contact
+- 📬 **Telegram:** [@NikkaGameS](https://t.me/NikkaGameS)  
+- 📧 **Email:** [okromtchedlishvilinika@gmail.com](mailto:okromtchedlishvilinika@gmail.com)
+
+---
+
+<p align="center">
+  <sub>Building from fundamentals. Engineering for precision.</sub>
+</p>
