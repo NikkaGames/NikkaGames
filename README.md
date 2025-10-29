@@ -24,10 +24,6 @@ Passionate about deep system internals, binary interfacing, and hardware–softw
 |:-:|:-:|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikkaGames&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikkaGames&layout=compact&theme=tokyonight&langs_count=8) |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NikkaGames&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
 ---
 
 #### Current Focus
