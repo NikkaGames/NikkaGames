@@ -35,8 +35,8 @@ Passionate about deep system internals, binary interfacing, and hardware–softw
 ---
 
 #### 🛰️ Contact
-- 📬 **Telegram:** [@NikkaGameS](https://t.me/NikkaGameS)  
-- 📧 **Email:** [okromtchedlishvilinika@gmail.com](mailto:okromtchedlishvilinika@gmail.com)
+- **Telegram:** [@NikkaGameS](https://t.me/NikkaGameS)  
+- **Email:** [okromtchedlishvilinika@gmail.com](mailto:okromtchedlishvilinika@gmail.com)
 
 ---
 
