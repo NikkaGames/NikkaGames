@@ -22,17 +22,17 @@ Currently exploring **UEFI development** and **boot chain adaptation** for ARM64
 
 ## Repository Index
 
-| # | Repository | Description | Language | License |
-|---|------------|-------------|----------|---------|
-| 1 | **[STClient](https://github.com/NikkaGames/STClient)** | Obfuscated Unity game client (ESP, aimbot, inventory). | `C++` / JNI | Proprietary |
-| 2 | **[SO2Socket](https://github.com/NikkaGames/SO2Socket)** | IL2CPP memory hooker with ESP & UDP JSON. | `C++` | Proprietary |
-| 3 | **[AutoShadow](https://github.com/NikkaGames/AutoShadow)** | Live IL2CPP dumper with ImGui overlay. | `C++` / ImGui | None |
-| 4 | **[ELFLoaderARM](https://github.com/NikkaGames/ELFLoaderARM)** | In-memory ARM64 ELF loader (Zygisk, encrypted). | `C++17` | GPL-3.0 |
-| 5 | **[GTU-Tables](https://github.com/NikkaGames/GTU-Tables)** | GTU schedule viewer by group ID. | `Kotlin` | None |
-| 6 | **[GTU-Tables-Windows](https://github.com/NikkaGames/GTU-Tables-Windows)** | Windows GTU timetable app. | `C#` | None |
-| 7 | **[GTU-Tables-Server](https://github.com/NikkaGames/GTU-Tables-Server)** | C# TCP backend for GTU schedules. | `C#` | None |
-| 8 | **[xiaomi-ingres-8450-mainline](https://github.com/NikkaGames/xiaomi-ingres-8450-mainline)** | Mainline kernel for POCO F4 GT / K50 Gaming. | `C` | None |
-| 9 | **[nx729j-mainline](https://github.com/NikkaGames/nx729j-mainline)** | Mainline kernel for RedMagic 8 Pro. | `C` | None |
+| # | Repository | Description  |
+|---|------------|-------------|
+| 1 | **[STClient](https://github.com/NikkaGames/STClient)** | Obfuscated Unity game client (ESP, aimbot, inventory). |
+| 2 | **[SO2Socket](https://github.com/NikkaGames/SO2Socket)** | IL2CPP memory hooker with ESP & UDP JSON. |
+| 3 | **[AutoShadow](https://github.com/NikkaGames/AutoShadow)** | Live IL2CPP dumper with ImGui overlay. |
+| 4 | **[ELFLoaderARM](https://github.com/NikkaGames/ELFLoaderARM)** | In-memory ARM64 ELF loader (Zygisk, encrypted). |
+| 5 | **[GTU-Tables](https://github.com/NikkaGames/GTU-Tables)** | GTU schedule viewer by group ID. |
+| 6 | **[GTU-Tables-Windows](https://github.com/NikkaGames/GTU-Tables-Windows)** | Windows GTU timetable app. |
+| 7 | **[GTU-Tables-Server](https://github.com/NikkaGames/GTU-Tables-Server)** | C# TCP backend for GTU schedules. |
+| 8 | **[xiaomi-ingres-8450-mainline](https://github.com/NikkaGames/xiaomi-ingres-8450-mainline)** | Mainline kernel for POCO F4 GT / K50 Gaming. |
+| 9 | **[nx729j-mainline](https://github.com/NikkaGames/nx729j-mainline)** | Mainline kernel for RedMagic 8 Pro. |
 
 ---
 
