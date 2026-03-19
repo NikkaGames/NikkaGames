@@ -12,31 +12,6 @@ Currently exploring **UEFI development** and **boot chain adaptation** for ARM64
 
 ---
 
-## Repository Index
-
-| # | Repository | Description  |
-|---|------------|-------------|
-| 1 | **[STClient](https://github.com/NikkaGames/STClient)** | GUI Client for SO2Socket. |
-| 2 | **[SO2Socket](https://github.com/NikkaGames/SO2Socket)** | Exploit for SO2. |
-| 3 | **[AutoShadow](https://github.com/NikkaGames/AutoShadow)** | Shadow Fight 2 Mod and Dumper. |
-| 4 | **[ELFLoaderARM](https://github.com/NikkaGames/ELFLoaderARM)** | In-memory ARM64 ELF payload loader. |
-| 5 | **[GTU-Tables](https://github.com/NikkaGames/GTU-Tables)** | GTU schedule viewer by group ID. |
-| 6 | **[GTU-Tables-Windows](https://github.com/NikkaGames/GTU-Tables-Windows)** | Windows GTU timetable app. |
-| 7 | **[GTU-Tables-Server](https://github.com/NikkaGames/GTU-Tables-Server)** | C# TCP backend for GTU schedules. |
-| 8 | **[BoltServerBot](https://github.com/NikkaGames/BoltServerBot)** | Small TG bot to manage bolt server. |
-| 9 | **[FLog](https://github.com/NikkaGames/FLog)** | FLog logs your targeted values into a file. |
-| 10 | **[xiaomi-ingres-8450-mainline](https://github.com/NikkaGames/xiaomi-ingres-8450-mainline)** | Mainline kernel for POCO F4 GT / Redmi K50 Gaming. |
-| 11 | **[nx729j-mainline](https://github.com/NikkaGames/nx729j-mainline)** | Mainline kernel for RedMagic 8 Pro. |
-
----
-
-## Legal & Ethical Disclaimer
-
-> **Warning**: Projects involving runtime modification (`SO2Socket`, `STClient`, `AutoShadow`) are **for educational and security research purposes only**.  
-> Redistribution, commercial use, or deployment in live games is **prohibited** and may result in account termination.
-
----
-
 #### Contact
 - **Telegram:** [@NikkaGameS](https://t.me/NikkaGameS)  
 - **Telegram Channel:** [@NikkaGamesOfficial](https://t.me/NikkaGamesOfficial)  
